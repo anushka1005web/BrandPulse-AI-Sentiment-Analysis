@@ -2,10 +2,5 @@ pandas
 numpy
 scikit-learn
 joblib
-matplotlib
-seaborn
-wordcloud
-nltk
 tensorflow
 streamlit
-plotly
